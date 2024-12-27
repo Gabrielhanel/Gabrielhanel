@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel ! 
+# Olá, me chamo Gabriel! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente ainda estou a procura de oportunidades no mercado trabalho, me preparando e adquirindo experiências através de projetos
